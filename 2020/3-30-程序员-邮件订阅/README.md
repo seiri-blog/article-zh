@@ -1,0 +1,33 @@
+
+# 邮件订阅 newsletter Subscribe
+- 视频 [程序员-邮件订阅，自动接收各种最新资讯，技术趋势，比别人懂多一点](https://www.bilibili.com/video/BV1k64y1M7es/)
+- 目的
+    - 了解最新资讯，教程，技术趋势
+    - 学习英语
+    - 开阔视野
+
+- Python
+    - Python周报 https://www.pythonweekly.com/
+    - https://importpython.com/newsletter/
+    - https://realpython.com/newsletter/
+- OpenCV
+    - https://www.pyimagesearch.com/newsletter/
+    - https://www.learnopencv.com/
+        - https://opencv.org/courses/
+- 慕课 公开课
+    - TED https://www.ted.com/newsletter
+    - https://www.coursera.org/
+    - https://www.udacity.com/
+- 人工智能
+    - https://www.kaggle.com/
+    - 人工智能-周报 http://aiweekly.co/
+- 众筹
+    - https://www.kickstarter.com/
+    - https://www.indiegogo.com/
+- 创业孵化器 yc
+    - https://www.ycombinator.com/subscribe/
+    - Hacker News https://news.ycombinator.com/
+- 美版知乎 Quora Digest 简报
+    - https://www.quora.com/
+- 科技新闻
+    - https://www.engadget.com/
