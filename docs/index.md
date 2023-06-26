@@ -1,6 +1,6 @@
 ---
 comments: true
-categories: ["markdown"| "中文"| "文章"| "技术文章"]
+categories: ["markdown", "中文", "文章", "技术文章"]
 ---
 
 # 中文 Markdown 文章列表
