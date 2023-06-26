@@ -32,7 +32,7 @@ theme:
   custom_dir: overrides
   logo: https://seiri.blog/favicon.ico
   favicon: https://seiri.blog/favicon.ico
-  language: zh-cmn-Hans
+  language: zh
 
   include_search_page: false
   search_index_only: true
