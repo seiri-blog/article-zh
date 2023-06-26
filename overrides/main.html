@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block analytics %}
+
+{% endblock %}
+
+{% block scripts %}
+<!-- Add scripts that need to run before here -->
+{{ super() }}
+<!-- Add scripts that need to run afterwards here -->
+{% endblock %}
+
+{% block libs %}
+<script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+{{ super() }}
+{% endblock %}
+
+{% block content %}
+
+{{ super() }}
+{% endblock %}
