@@ -1,15 +1,15 @@
 site_name: 中文 Markdown 文章
 copyright: >
   Copyright &copy; 2023
-  <a href="https://seiri.blog">seiri's blog</a>
+  <a href="https://seiri-blog.github.io">seiri's blog</a>
 site_description: >
   2019年~2021年所记录的，中文Markdown的文章，详细请参照文章列表
 site_author: seiri
 nav:
   - 文章列表: index.md
-  - 我的博客（日文）: https://seiri.blog
+  - 我的博客（日文）: https://seiri-blog.github.io
 extra:
-  homepage: https://seiri.blog/article-zh/
+  homepage: https://seiri-blog.github.io/article-zh/
   generator: false
   social:
     - icon: fontawesome/brands/github
@@ -29,8 +29,8 @@ extra:
 theme:
   name: material
   custom_dir: overrides
-  logo: https://seiri.blog/favicon.ico
-  favicon: https://seiri.blog/favicon.ico
+  logo: https://seiri-blog.github.io/favicon.ico
+  favicon: https://seiri-blog.github.io/favicon.ico
   language: zh
 
   include_search_page: false
